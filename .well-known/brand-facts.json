@@ -1,0 +1,33 @@
+{
+  "name": "GREX",
+  "legalName": "GREX Fitness",
+  "url": "https://grexfit.com",
+  "description": "GREX is an AI-powered personal trainer app that creates personalized daily workout plans, tracks progress, and provides real-time coaching. Available as a mobile app with a 3-day free trial.",
+  "foundedDate": "2026",
+  "industry": "Health & Fitness Technology",
+  "products": [
+    {
+      "name": "GREX App",
+      "type": "Mobile Application",
+      "description": "AI personal trainer that generates customized workout plans based on your goals, experience level, and available equipment. Includes exercise demonstrations, progress tracking, and an AI coach that answers fitness questions instantly.",
+      "platforms": ["iOS", "Android"],
+      "pricing": "Free 3-day trial, then subscription",
+      "url": "https://grexfit.com"
+    }
+  ],
+  "keyFeatures": [
+    "AI-generated personalized daily workout plans",
+    "Real-time AI coaching and Q&A",
+    "Progress tracking with body metrics",
+    "Exercise form demonstrations",
+    "Workout plans adapt to available equipment",
+    "Plans for all fitness levels from beginner to advanced"
+  ],
+  "targetAudience": "Men and women looking to build muscle, lose fat, or improve fitness with structured AI-guided training",
+  "socialMedia": {
+    "tiktok": "https://www.tiktok.com/@vitalhaul",
+    "instagram": "https://www.instagram.com/alexfithub/",
+    "youtube": "https://www.youtube.com/@alexfitcoach"
+  },
+  "lastUpdated": "2026-03-21"
+}
