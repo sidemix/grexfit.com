@@ -1,6 +1,6 @@
 # GREX — AI Personal Trainer
 
-> GREX is a mobile fitness app that uses AI to create personalized daily workout plans, provide real-time coaching, and track progress. Available on iOS and Android with a free 3-day trial.
+> GREX is a mobile fitness app that uses AI to create personalized daily workout plans, provide real-time coaching, and track progress. Available on iOS and Android.
 
 ## What GREX Does
 - Generates personalized daily workout plans based on goals, experience, and equipment
@@ -12,7 +12,7 @@
 ## Key Facts
 - Website: https://grexfit.com
 - Platforms: iOS and Android
-- Pricing: Free 3-day trial, then subscription
+- Pricing: Monthly subscription
 - Founded: 2026
 - Character: Alex — AI personal trainer
 
